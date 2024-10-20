@@ -1,0 +1,96 @@
+.body{
+    margin: 0.9rem;
+    border: 3px solid rgb(226, 11, 11);
+    padding: 0 1.25rem;
+    border-radius: 1.25rem;
+    text-align: justify;
+}
+h1{
+    text-align:center;
+    text-decoration: underline;
+    font-size: 3.75rem;
+    margin-top: 0.3rem;
+}
+h2{
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+a:hover{
+    color: rgb(209, 100, 255);
+}
+a:active{
+    color: rgb(0, 206, 124);
+}
+.contact-info img {
+    width: 1rem;
+}
+.myimg{
+    text-align: right;
+}
+.myimg img{
+    border: 2px solid black;
+    width: 12rem;
+    float: right;
+}
+.mob-num{
+    text-decoration: none;
+    color: rgb(14, 14, 160);
+}
+hr{
+    background-color: black;
+    height: 2px;
+    border: 0;
+}
+.topic{
+    border: 2px solid black;
+    background: linear-gradient(to right, #ffffff,  #cfcfcf);
+    padding: 0 1.25rem;
+    font-weight: bold;
+}
+.heading{
+    margin: 0.625rem 0;
+}
+.objective{
+    margin: 0.9375rem 0.7rem;
+    text-align: justify;
+    text-indent: 2rem;
+}
+.edu-detail{
+    margin-bottom: 1.25rem;
+}
+.edu-detail li{
+    list-style: none;
+}
+.edu-detail img{
+    width: 0.9375rem;
+}
+p,li{
+    font-family:sans-serif;
+}
+td{
+    font-family: sans-serif;
+}
+.declare{
+    text-indent: 1rem;
+    line-height: normal;
+}
+.sign{
+    text-align: end;
+    margin-right: 2.7rem;
+    margin-bottom: 4rem;
+}
+.sign p{
+    margin: 0;
+    margin-right: 5rem;
+}
+.sign img{
+    margin-right: 3.1rem;
+    width: 10rem;
+}
+br {
+    visibility: hidden;
+}
+.footer{
+    text-align: center;
+    color: rgb(143, 81, 108);
+}
